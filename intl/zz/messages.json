@@ -1,0 +1,74 @@
+{
+  "forms": [
+    "accessor.discoverSchemas:examples/example.js:13"
+  ],
+  "eq:": [
+    "console.log:examples/filter-date.js:5"
+  ],
+  "in:": [
+    "console.log:examples/filter-date.js:6"
+  ],
+  "test": [
+    "fd:examples/filter-date.js:5",
+    "fd:examples/filter-date.js:6"
+  ],
+  "day": [
+    "d.startOf:lib/filter/date.js:33",
+    "d.endOf:lib/filter/date.js:33",
+    "d.startOf:lib/filter/date.js:38",
+    "d.endOf:lib/filter/date.js:38"
+  ],
+  "month": [
+    "d.startOf:lib/filter/date.js:55",
+    "d.endOf:lib/filter/date.js:55",
+    "d.startOf:lib/filter/date.js:60",
+    "d.endOf:lib/filter/date.js:60"
+  ],
+  "quarter": [
+    "d.startOf:lib/filter/date.js:75",
+    "d.endOf:lib/filter/date.js:75",
+    "d.startOf:lib/filter/date.js:80",
+    "d.endOf:lib/filter/date.js:80",
+    "d.startOf:lib/filter/date.js:85",
+    "d.endOf:lib/filter/date.js:85",
+    "d.startOf:lib/filter/date.js:90",
+    "d.endOf:lib/filter/date.js:90",
+    "d.startOf:lib/filter/date.js:95",
+    "d.endOf:lib/filter/date.js:95",
+    "d.startOf:lib/filter/date.js:100",
+    "d.endOf:lib/filter/date.js:100",
+    "d.startOf:lib/filter/date.js:105",
+    "d.endOf:lib/filter/date.js:105",
+    "d.startOf:lib/filter/date.js:110",
+    "d.endOf:lib/filter/date.js:110"
+  ],
+  "week": [
+    "d.startOf:lib/filter/date.js:44",
+    "d.endOf:lib/filter/date.js:44",
+    "d.startOf:lib/filter/date.js:50",
+    "d.endOf:lib/filter/date.js:50"
+  ],
+  "year": [
+    "d.startOf:lib/filter/date.js:65",
+    "d.endOf:lib/filter/date.js:65",
+    "d.startOf:lib/filter/date.js:70",
+    "d.endOf:lib/filter/date.js:70"
+  ],
+  "$/": [
+    "RegExp:lib/filter/index.js:40",
+    "RegExp:lib/filter/index.js:41"
+  ],
+  "/^": [
+    "RegExp:lib/filter/index.js:37",
+    "RegExp:lib/filter/index.js:38"
+  ],
+  "`between` requires two value at least!": [
+    "Error:lib/filter/index.js:24"
+  ],
+  "`notBetween` requires two value at least!": [
+    "Error:lib/filter/index.js:30"
+  ],
+  "system.": [
+    "startsWith:lib/mongodb.js:31"
+  ]
+}

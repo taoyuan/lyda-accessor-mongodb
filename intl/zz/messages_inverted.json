@@ -1,0 +1,108 @@
+{
+  "examples/example.js": {
+    "13": [
+      "accessor.discoverSchemas('forms')"
+    ]
+  },
+  "examples/filter-date.js": {
+    "5": [
+      "console.log('eq:')",
+      "fd('test')"
+    ],
+    "6": [
+      "console.log('in:')",
+      "fd('test')"
+    ]
+  },
+  "lib/filter/date.js": {
+    "33": [
+      "d.startOf('day')",
+      "d.endOf('day')"
+    ],
+    "38": [
+      "d.startOf('day')",
+      "d.endOf('day')"
+    ],
+    "44": [
+      "d.startOf('week')",
+      "d.endOf('week')"
+    ],
+    "50": [
+      "d.startOf('week')",
+      "d.endOf('week')"
+    ],
+    "55": [
+      "d.startOf('month')",
+      "d.endOf('month')"
+    ],
+    "60": [
+      "d.startOf('month')",
+      "d.endOf('month')"
+    ],
+    "65": [
+      "d.startOf('year')",
+      "d.endOf('year')"
+    ],
+    "70": [
+      "d.startOf('year')",
+      "d.endOf('year')"
+    ],
+    "75": [
+      "d.startOf('quarter')",
+      "d.endOf('quarter')"
+    ],
+    "80": [
+      "d.startOf('quarter')",
+      "d.endOf('quarter')"
+    ],
+    "85": [
+      "d.startOf('quarter')",
+      "d.endOf('quarter')"
+    ],
+    "90": [
+      "d.startOf('quarter')",
+      "d.endOf('quarter')"
+    ],
+    "95": [
+      "d.startOf('quarter')",
+      "d.endOf('quarter')"
+    ],
+    "100": [
+      "d.startOf('quarter')",
+      "d.endOf('quarter')"
+    ],
+    "105": [
+      "d.startOf('quarter')",
+      "d.endOf('quarter')"
+    ],
+    "110": [
+      "d.startOf('quarter')",
+      "d.endOf('quarter')"
+    ]
+  },
+  "lib/filter/index.js": {
+    "24": [
+      "Error('`between` requires two value at least!')"
+    ],
+    "30": [
+      "Error('`notBetween` requires two value at least!')"
+    ],
+    "37": [
+      "RegExp('/^')"
+    ],
+    "38": [
+      "RegExp('/^')"
+    ],
+    "40": [
+      "RegExp('$/')"
+    ],
+    "41": [
+      "RegExp('$/')"
+    ]
+  },
+  "lib/mongodb.js": {
+    "31": [
+      "startsWith('system.')"
+    ]
+  }
+}
