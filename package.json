@@ -26,9 +26,7 @@
     "debug": "^2.2.0",
     "lodash": "^4.16.4",
     "lyda-accessor": "^0.1.0",
-    "moment": "^2.15.1",
-    "mongodb-schema": "^5.0.0",
-    "numeral": "^1.5.3"
+    "mongodb-schema": "^5.0.0"
   },
   "peerDependencies": {
     "loopback-connector-mongodb": "^1.17.0"
