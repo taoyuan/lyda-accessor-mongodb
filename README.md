@@ -7,13 +7,6 @@
 $ npm install --save lyda-accessor-mongodb
 ```
 
-## Usage
-
-```js
-var lydaAccessorMongodb = require('lyda-accessor-mongodb');
-
-lydaAccessorMongodb('Rainbow');
-```
 ## License
 
 MIT © [Yuan Tao]()
