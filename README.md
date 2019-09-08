@@ -1,4 +1,7 @@
 # lyda-accessor-mongodb [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/taoyuan/lyda-accessor-mongodb.svg)](https://greenkeeper.io/)
+
 > 
 
 ## Installation
