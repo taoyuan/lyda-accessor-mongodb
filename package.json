@@ -18,16 +18,16 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^3.2.0"
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
   },
   "dependencies": {
     "bluebird": "^3.4.7",
-    "debug": "^2.6.0",
+    "debug": "^4.1.1",
     "exco-mongodb": "^0.1.0",
     "lodash": "^4.17.4",
     "lyda-accessor": "^0.1.3",
-    "mongodb-schema": "^6.0.2"
+    "mongodb-schema": "^8.2.5"
   },
   "peerDependencies": {
     "loopback-connector-mongodb": "^3.0.0"
